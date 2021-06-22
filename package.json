@@ -1,11 +1,11 @@
 {
   "name": "features-compare",
   "version": "1.0.0",
-  "description": "",
+  "description": "Script to compare feature sets from the Quadpay experian-features service and the decision-engine",
   "main": "index.js",
   "scripts": {
     "start": "node index.js > out.txt"
   },
-  "author": "",
+  "author": "ttse76",
   "license": "ISC"
 }
