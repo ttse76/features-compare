@@ -1,2 +1,0 @@
-All python features in decision engine
-All decision engine features in python
